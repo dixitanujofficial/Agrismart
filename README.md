@@ -271,7 +271,7 @@ GitHub: [@dixitanujofficial](https://github.com/dixitanujofficial)
 
 LinkedIn: [Anuj Dixit](https://www.linkedin.com/in/dixit-anuj/)
 
-Portfolio: [Anuj Dixit Porfolio](https://anujdixitportfolio.netlify.app/)
+Portfolio: [Anuj Dixit Portfolio](https://anujdixitportfolio.netlify.app/)
 
 Live : [Agrismart](https://agrismart-delta-five.vercel.app/)
 ---
