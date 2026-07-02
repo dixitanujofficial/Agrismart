@@ -269,10 +269,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 **Anuj Dixit**  
 GitHub: [@dixitanujofficial](https://github.com/dixitanujofficial)
 
-LinkedIn: https://www.linkedin.com/in/dixit-anuj/
+LinkedIn: [Anuj Dixit](https://www.linkedin.com/in/dixit-anuj/)
 
-Portfolio: https://anujdixitportfolio.netlify.app/
+Portfolio: [Anuj Dixit Porfolio](https://anujdixitportfolio.netlify.app/)
 
+Live : [Agrismart](https://agrismart-delta-five.vercel.app/)
 ---
 
 <div align="center">
